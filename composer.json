@@ -15,6 +15,12 @@
             "email": "aris@phe.me"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "https://github.com/lake83/yii2-toggle-column"
+        }
+    ],
     "require": {
         "yiisoft/yii2": "*"
     },
